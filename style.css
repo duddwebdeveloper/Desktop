@@ -34,7 +34,10 @@ footer{background-color: rgb(0, 0, 0);
 
 }
 
-.introduçao{background-image:url(Codigo.jpg);
+.introduçao{background-image:url(codigo.jpg);
+            
 
 
 }
+
+.pular{line-break: strict;}
